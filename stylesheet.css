@@ -29,4 +29,7 @@ input {
 .close {
     position: absolute;
     top: 0;
+    right: 14px;
+    font-size: 42px;
+    transform: rotate(45deg):
 }
