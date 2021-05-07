@@ -17,10 +17,16 @@
     border-radius: 5px;
     text-align: center;
     padding: 20px;
+    position: relative;
 }
 
 input {
     width: 50%;
     display: block;
     margin: 15px auto;
+}
+
+.close {
+    position: absolute;
+    top: 0;
 }
