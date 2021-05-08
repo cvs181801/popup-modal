@@ -1,4 +1,4 @@
-document.querySelector("start-button").addEventListener("click", function() {
+document.querySelector('.start-button').addEventListener("click", function() {
     document.querySelector('.bg-modal').style.display = "flex";
 });
 document.querySelector('.close').addEventListener('click', function(){
