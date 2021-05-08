@@ -17,8 +17,9 @@ section {
 }
 
 .start-button {
+    height: 40px;
     background-color: coral;
-    border: 3px;
+    border: 13px;
     border-color: white;
     padding: 10px;
     display: inline-block;
