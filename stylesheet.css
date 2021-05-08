@@ -1,5 +1,5 @@
 section {
-    background-image: "tropicalimage.jpeg"; 
+    background-image: url("tropicalimage.jpeg"); 
     background-size: cover;
     height: 100%;
     width: 100%;
@@ -14,6 +14,7 @@ section {
     border: 3px white;
     padding: 10px;
     display: inline-block;
+    margin-top: 10px;
 }
 
 .bg-modal {
