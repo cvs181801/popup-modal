@@ -27,6 +27,11 @@ section {
     align-items: center;
 }
 
+.main-page-content {
+    display: flex;
+
+}
+
 .start-button {
     height: 100px;
     width: 200px;
