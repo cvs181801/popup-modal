@@ -54,7 +54,7 @@ section {
 .start-button:hover {
     background-color: white;
     color: rgb(252, 1, 97);
-    border: 3px solid chartreuse;
+    border: 3px solid rgb(252, 1, 97);
 }
 
 /***** modal section ******/
