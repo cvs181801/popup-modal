@@ -101,7 +101,8 @@ input {
     height: 50px;
     width: 68px;
     background-color: rgb(252, 1, 97);
-    font-size: 9px;
+    color: white;
+    font-size: 15px;
     border: 2px;
     border-color: white;
     border-radius: 12px;
