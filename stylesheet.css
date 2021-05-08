@@ -8,7 +8,7 @@ section {
     align-items: center;
 }
 
-.button {
+.start-button {
     background-color: coral;
     border: 3px white;
     padding: 10px;
