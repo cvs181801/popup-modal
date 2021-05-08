@@ -32,6 +32,10 @@ section {
 
 }
 
+.main-page-content < * {
+    flex: 1 1 100;
+}
+
 .start-button {
     height: 100px;
     width: 200px;
