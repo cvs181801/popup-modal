@@ -33,7 +33,7 @@ section {
 }
 
 .main-page-content > * {
-    flex: 1 1 100;
+    flex: 1 1 20em;
 }
 
 .start-button {
