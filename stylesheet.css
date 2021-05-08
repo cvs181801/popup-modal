@@ -29,10 +29,10 @@ section {
 
 .main-page-content {
     display: flex;
-
+    flex-wrap: wrap;
 }
 
-.main-page-content < * {
+.main-page-content > * {
     flex: 1 1 100;
 }
 
