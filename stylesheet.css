@@ -21,10 +21,10 @@ section {
 }
 
 .start-button {
-    height: 60px;
-    width: 100px;
+    height: 100px;
+    width: 200px;
     background-color: rgb(247, 117, 100);
-    font-size: 30px;
+    font-size: 15px;
     border: 13px;
     border-color: white;
     padding: 10px;
