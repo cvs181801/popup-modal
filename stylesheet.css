@@ -5,6 +5,15 @@ section {
     width: 100%;
     display: flex;
     text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: coral;
+    border: 3px white;
+    padding: 10px;
+    display: inline-block;
 }
 
 .bg-modal {
