@@ -1,5 +1,5 @@
 section {
-    background-image: "https://www.pexels.com/photo/close-up-photo-of-palm-plant-1534172/"; /*Photo by Artem Beliaikin from Pexels*/ 
+    background-image: "./tropicalimage.jpeg"; 
     background-size: cover;
     height: 100%;
     width: 100%;
