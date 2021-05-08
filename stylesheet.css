@@ -10,7 +10,8 @@ section {
 
 .start-button {
     background-color: coral;
-    border: 3px white;
+    border: 3px;
+    border-color: white;
     padding: 10px;
     display: inline-block;
     margin-top: 10px;
