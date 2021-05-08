@@ -1,3 +1,5 @@
+/* *** main page section *** */
+
 html {
     height: 100%;
 }
@@ -18,7 +20,7 @@ h1 {
 }
 
 section {
-    background-image: url("tropicalimage.jpeg"); 
+    background-image: url("tropicalbeach.jpeg"); 
     background-size: cover;
     height: 100%;
     width: 100%;
