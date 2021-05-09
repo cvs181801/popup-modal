@@ -50,7 +50,7 @@ section {
     padding: 10px;
     margin-top: 10px;
     font-family: papyrus, fantasy;
-}
+    cursor: pointer;
 
 .start-button:hover {
     background-color: white;
