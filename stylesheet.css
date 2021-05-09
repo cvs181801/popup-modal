@@ -52,6 +52,8 @@ section {
     font-family: papyrus, fantasy;
     cursor: pointer;
 
+}
+
 .start-button:hover {
     background-color: white;
     color: rgb(252, 1, 97);
