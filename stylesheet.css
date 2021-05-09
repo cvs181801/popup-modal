@@ -110,6 +110,7 @@ input {
     padding: 3px;
     margin-top: 10px;
     font-family: papyrus, fantasy;
+    cursor: pointer;
 }
 
 .submit-button:hover {
