@@ -17,6 +17,7 @@ h1 {
     color: white;
     font-family: papyrus, fantasy;
     font-size: 70px;
+    text-shadow: 3px 3px brown;
 }
 
 section {
